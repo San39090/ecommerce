@@ -8,7 +8,7 @@ export const ShopContext = createContext();
 const ShopContextProvider = (props)=>{
     const currency = '$';
     const delivery_fee = 10;
-    const backendUrl = "https://ecommerce-backend-ruby-six.vercel.app"
+    const backendUrl = "https://ecommerce-seven-eta-59.vercel.app"
     const [search,setSearch] = useState('');
     const [showSearch,setShowSearch] = useState(false);
     const [products,setProducts] = useState([]);
