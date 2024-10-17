@@ -79,8 +79,8 @@ const Product = () => {
           <p className='border px-5 py-3 text-sm'>Reviews(122)</p>
         </div>
         <div className='flex flex-col gap-4 border px-6 py-6 text-sm text-gray-500'>
-          <p>dvbjknvjknv vdfhvkdfnvjdfv dfnvjkfnvkjfnvkjsnsf vfdvnfdkvjfkdnvjsncjksfdhvjkfnvjfnvvdfvnfv hvifnsvkjnvkjdfvn  vunvkfjnv vndjfnvf.kv vsfhvnfsvnfjsv</p>
-          <p>vuuvbvihc vnfjknvdnvv vonvfjdvnfdnv iojivfjvufv jvijfnvlnlfnvf hvjfnvjlnj</p>
+          <p>This stylish dress combines comfort and elegance, making it a versatile choice for any occasion. Designed with high-quality fabric, it offers a perfect fit while ensuring a flattering silhouette.</p>
+          <p>Available in a variety of styles, colors, and sizes, this dress is ideal for enhancing your wardrobe.</p>
         </div>
       </div>
       {/* {display related products} */}
